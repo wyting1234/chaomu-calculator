@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "com.wyting.chaomu",
+        "sha256_cert_fingerprints": ["51:DE:AB:38:62:C3:25:AA:01:35:41:1D:FB:77:25:72:61:A4:5D:CB:34:57:4D:BF:F6:1B:E2:B1:5D:DC:02:41"]
+      }
+    }]
